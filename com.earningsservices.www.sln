@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.earningsservices.www", "com.earningsservices.www\com.earningsservices.www.csproj", "{ABB1A393-C6E1-4168-A885-83E8E849A864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB1A393-C6E1-4168-A885-83E8E849A864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB1A393-C6E1-4168-A885-83E8E849A864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB1A393-C6E1-4168-A885-83E8E849A864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB1A393-C6E1-4168-A885-83E8E849A864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79B3A316-7F4E-444A-9657-7BC8F4724949}
+	EndGlobalSection
+EndGlobal
